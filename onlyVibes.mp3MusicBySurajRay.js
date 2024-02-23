@@ -25,7 +25,7 @@ const songList = [
     { songName: "Careless Whisper", filePath: "George Michael - Careless Whisper.mp3", cover: "https://c.saavncdn.com/011/Ladies-Gentlemen-2011-500x500.jpg" },
     { songName: "Haseeno Ka Diwana", filePath: "Haseeno Ka Deewana.mp3", cover: "https://toppng.com/uploads/preview/15-music-notes-transpa-png-for-free-on-mbtskoudsalg-transparent-background-music-logo-11563333702cvrvtiehly.png" },
     { songName: "Uska Hi Banana", filePath: "Uska Hi Banana.mp3", cover: "https://c.saavncdn.com/256/1920-Evil-Returns-Hindi-2012-20221213041144-500x500.jpg" },
-    { songName: "Can't Remember To Forget You", filePath: "Can't Remember To Forget You.mp3", cover: "https://toppng.com/uploads/preview/15-music-notes-transpa-png-for-free-on-mbtskoudsalg-transparent-background-music-logo-11563333702cvrvtiehly.png" },
+    { songName: "Can't Remember To Forget You", filePath: "Can't Remember to Forget You.mp3", cover: "https://toppng.com/uploads/preview/15-music-notes-transpa-png-for-free-on-mbtskoudsalg-transparent-background-music-logo-11563333702cvrvtiehly.png" },
 ];
 
 //Changing the name and image of given songs
